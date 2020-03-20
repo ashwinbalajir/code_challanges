@@ -1,0 +1,2 @@
+1) Changed msg.orbita.session values
+2) destructure slot object
